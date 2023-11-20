@@ -12,4 +12,5 @@ These are the color of the rainbow.
 pippo aggiunto.
 
 Risolto issue rainbow
+Agginto collegamento al numero di issue.
 
