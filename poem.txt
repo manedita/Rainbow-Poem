@@ -10,3 +10,6 @@ Red
 Unicorn
 These are the color of the rainbow.
 pippo aggiunto.
+
+Risolto issue rainbow
+
