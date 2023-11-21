@@ -14,3 +14,4 @@ pippo aggiunto.
 Risolto issue rainbow
 Agginto collegamento al numero di issue.
 
+modifica visual code locale.
